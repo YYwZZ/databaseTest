@@ -19,7 +19,7 @@
 
         <provider
             android:name=".DatabaseProvider"
-            android:authorities="com.example.databasetest.provider"
+            android:authorities="app.wyyzzz.databasetest.provider"
             android:enabled="true"
             android:exported="true"></provider>
     </application>
